@@ -1,4 +1,4 @@
-theme: jekyll-theme-caymansda
+theme: jekyll-theme-cayman
 
 <ul>
   {% for post in site.posts %}
